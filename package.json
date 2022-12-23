@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CC-04-SYSII-Blockchain/01_blockchain/issues"
   },
-  "homepage": "https://github.com/CC-04-SYSII-Blockchain/01_blockchain#readme"
+  "homepage": "https://github.com/CC-04-SYSII-Blockchain/01_blockchain#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
